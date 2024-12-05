@@ -3,7 +3,8 @@
 This project implements an Employee class in Java, designed to manage and represent information about employees. The class includes fields, constructors, and methods to perform various operations related to employee data.
 
 # **Features**
-Define and manage employee attributes such as:Name
+Define and manage employee attributes such as:
+* Name
 * ID
 * Position
 * Salary
