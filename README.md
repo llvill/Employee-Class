@@ -16,5 +16,5 @@ Perform operations like:
 * Comparing employee objects
 
 # **Prerequisites**
-Java Development Kit (JDK): Make sure you have JDK 8 or higher installed.
+Java Development Kit (JDK): Make sure you have JDK 8 or higher installed. <br />
 IDE/Text Editor: Use any IDE (e.g., IntelliJ IDEA, Eclipse) or a text editor that supports Java.
